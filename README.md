@@ -21,6 +21,6 @@ streamlit run main.py
 ```
 
 # Credits
-Teammates:
+Teammates: <br />
 Yash Jain <br />
 Sunjana Ramana Chintala <br />
