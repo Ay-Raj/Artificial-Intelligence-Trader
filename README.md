@@ -22,5 +22,5 @@ streamlit run main.py
 
 # Credits
 Teammates:
-Yash Jain \\
-Sunjana Ramana Chintala
+Yash Jain <br />
+Sunjana Ramana Chintala <br />
