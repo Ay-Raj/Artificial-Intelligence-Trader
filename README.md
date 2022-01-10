@@ -1,6 +1,6 @@
-# Project Title: AI-Powered-Investment-Management-System
+# Project Title: Artificial Intelligence Trader
 
-This project is a part of EECSE 6893: Big Data Analytics coursework taught by Prof. Ching-Yung Lin.
+This project is a part of EECSE 6893: Big Data Analytics taught by Prof. Ching-Yung Lin.
 
 Youtube video link: https://www.youtube.com/watch?v=vl4OyphMXmI
 
@@ -21,5 +21,6 @@ streamlit run main.py
 ```
 
 # Credits
-
-We would like to thank Prof. Ching-Yung Lin and his team of teaching assistants for the resources and guidance provided to complete this project. 
+Teammates:
+Yash Jain
+Sunjana Ramana Chintala
